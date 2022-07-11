@@ -5,9 +5,9 @@ using System.Text;
 
 namespace T2108M_XML2.HoaDONTienDien
 {
-    class Program
+  public  class Program
     {
-        static void Main(string[] args)
+         private static void Main(string[] args)
         {
             const int gia1 = 500, gia2 = 600, gia3 = 800, gia4 = 1000;
             const int dm1 = 100, dm2 = 250, dm3 = 300;
